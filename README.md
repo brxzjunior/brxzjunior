@@ -38,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brxzjunior&show_icons=true&locale=en" alt="brxzjunior" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brxzjunior&" alt="brxzjunior" /></p>
+<p>Please use light mode :) </p>
