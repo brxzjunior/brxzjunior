@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/brazjuniour" target="blank"><img src="https://img.shields.io/twitter/follow/brazjuniour?logo=twitter&style=for-the-badge" alt="brazjuniour" /></a> </p>
 
-- 🔭 I’m currently working on **My portifolio**
+- 🔭 I’m currently working on **<a href="https://brxzjunior.github.io/Finans/">Finans</a>**
 
 - 🌱 I’m currently learning **Bootstrap and JS.**
 
