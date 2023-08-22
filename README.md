@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **<a href="https://brxzjunior.github.io/Finans" target="_blank"> Finans </a>**  & **<a href="https://killflie.netlify.app" target="_blank"> KillFlie </a>**
 
-- 🌱 I’m currently learning **Bootstrap and JS.**
+- 🌱 I’m currently learning **JavaScript & React.**
 
 - 🎵 Spotify fav playlist [Relaxxx with me on Spotify](https://open.spotify.com/playlist/1c2KgtC6gyccAwEyqmEjeU)
 
