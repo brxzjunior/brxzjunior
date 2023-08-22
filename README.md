@@ -5,7 +5,7 @@
             
 <p align="left"> <a href="https://twitter.com/brazjuniour" target="_blank"><img src="https://img.shields.io/twitter/follow/brazjuniour?logo=twitter&style=for-the-badge" alt="brazjuniour" /></a> </p>
 
-- 🔭 I’m currently working on **<a href="https://brxzjunior.github.io/Finans" target="_blank"> Finans </a> & <a href="https://killflie.netlify.app" target="_blank"> KillFlie </a> **
+- 🔭 I’m currently working on **<a href="https://brxzjunior.github.io/Finans" target="_blank"> Finans </a>**  & **<a href="https://killflie.netlify.app" target="_blank"> KillFlie </a>**
 
 - 🌱 I’m currently learning **Bootstrap and JS.**
 
