@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Braz (Brx) Junior</h1>
 <h3 align="center">A brazilian passionate web developer 🤗</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brxzjunior&label=Profile%20views&color=0e75b6&style=flat" alt="brxzjunior" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=brxzjunior&label=Profile%20views&color=0e75b6&style=flat" alt="brxzjunior" /> </p> -->
 
 - 🔭 I’m currently working on **<a href="https://wea-ther.netlify.app" target="_blank"> Weather </a>**  & **<a href="https://killflie.netlify.app" target="_blank"> KillFlie </a>**
 
