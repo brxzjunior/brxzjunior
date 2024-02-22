@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **<a href="https://wea-ther.netlify.app" target="_blank"> Weather </a>**  & **<a href="https://killflie.netlify.app" target="_blank"> KillFlie </a>**
 
-- 🌱 I’m currently learning **JavaScript & React.**
+- 🌱 I’m currently learning **JavaScript & React JS.**
 
 - 🎵 Spotify fav playlist [Relaxxx with me on Spotify](https://open.spotify.com/playlist/1c2KgtC6gyccAwEyqmEjeU)
 
 - 📥 if you wanna find me, hit me on IG [@brazjrsvg](https://www.instagram.com/brazjrsvg)
 
-- 👨‍💻 All of my projects are available at [https://github.com/brxzjunior](https://github.com/brxzjunior)
+- 👨‍💻 All of my projects and repos are available at [https://github.com/brxzjunior](https://github.com/brxzjunior)
 
 - 💬 Ask me about **🖥️, 🎮, 👟 and 🎵**
 
