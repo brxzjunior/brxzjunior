@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **brazjuniorxx@gmail.com**
 
-- 📄 Know about my experiences **I'm studying frontend and trying to get my first job as a web dev. My skills nowadays are: HTML, CSS, BS and starting JS.**
+- 📄 Know about my experiences: **I'm studying web development and improving my hard and soft skills. My tech stack: HTML, CSS, JS, React.**
 
 - ⚡ Fun fact **I love sneakers and I got Air Force Ones tatted on my left leg haha xD**
 
