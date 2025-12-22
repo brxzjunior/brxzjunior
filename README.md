@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=brxzjunior&label=Profile%20views&color=0e75b6&style=flat" alt="brxzjunior" /> </p> -->
 
-- 🔭 I’m currently working on **Web development and Security**
+- 🔭 I’m currently working on **Web development and Security projects**
 
 - 🌱 I’m currently learning **JavaScript & React JS**
 
