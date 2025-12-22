@@ -3,23 +3,23 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=brxzjunior&label=Profile%20views&color=0e75b6&style=flat" alt="brxzjunior" /> </p> -->
 
-- 🔭 I’m currently working on **<a href="https://wea-ther.netlify.app" target="_blank"> Weather </a>**  & **<a href="https://killflie.netlify.app" target="_blank"> KillFlie </a>**
+- 🔭 I’m currently working on **Web development and Security**
 
-- 🌱 I’m currently learning **JavaScript & React JS.**
+- 🌱 I’m currently learning **JavaScript & React JS**
 
 - 🎵 Spotify fav playlist [Relaxxx with me on Spotify](https://open.spotify.com/playlist/1c2KgtC6gyccAwEyqmEjeU)
 
-- 📥 if you wanna find me, hit me on IG [@brazjrsvg](https://www.instagram.com/brazjrsvg)
+- 📥 if you wanna find me, hit me on Email brazjuniorxx@gmail.com
 
 - 👨‍💻 All of my projects and repos are available at [https://github.com/brxzjunior](https://github.com/brxzjunior)
 
 - 💬 Ask me about **🖥️, 🎮, 👟 and 🎵**
 
-- 📫 How to reach me **brazjuniorxx@gmail.com**
+- 📫 How to reach me **Send me DMs, emails and friend requests**
 
 - 📄 Know about my experiences: **I'm studying web development and improving my hard and soft skills. My tech stack: HTML, CSS, JS, React.**
 
-- ⚡ Fun fact **I love sneakers and I got Air Force Ones tatted on my left leg haha xD**
+- ⚡ Fun fact **I love sneakers and play video games, haha xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
