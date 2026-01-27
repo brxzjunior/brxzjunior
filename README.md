@@ -11,8 +11,7 @@
 
 - 🌱 Aprendendo **JavaScript e React JS**
 
-- 🎵 Playlist favorita no Spotify  
-  [Relaxxx](https://open.spotify.com/playlist/1c2KgtC6gyccAwEyqmEjeU)
+- 🎵 Playlist favorita no Spotify  [Relaxxx](https://open.spotify.com/playlist/1c2KgtC6gyccAwEyqmEjeU)
 
 - 📥 Para contato: **brazjuniorxx@gmail.com**
 
