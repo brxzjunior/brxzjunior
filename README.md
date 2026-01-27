@@ -12,7 +12,7 @@
 - 🌱 Aprendendo **JavaScript e React JS**
 
 - 🎵 Playlist favorita no Spotify  
-  [Relaxxx comigo no Spotify](https://open.spotify.com/playlist/1c2KgtC6gyccAwEyqmEjeU)
+  [Relaxxx](https://open.spotify.com/playlist/1c2KgtC6gyccAwEyqmEjeU)
 
 - 📥 Para contato: **brazjuniorxx@gmail.com**
 
