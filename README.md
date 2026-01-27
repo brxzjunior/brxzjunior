@@ -1,37 +1,62 @@
-<h1 align="center">Hi 👋, I'm Braz (Brx) Junior</h1>
-<h3 align="center">A brazilian passionate web developer 🤗</h3>
+<h1 align="center">Olá 👋, eu sou o Braz (Brx) Junior</h1>
+<h3 align="center">Desenvolvedor web iniciante apaixonado por tecnologia 🤗</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=brxzjunior&label=Profile%20views&color=0e75b6&style=flat" alt="brxzjunior" /> </p> -->
-
-- 🔭 I’m currently working on **Web development and Security projects**
-
-- 🌱 I’m currently learning **JavaScript & React JS**
-
-- 🎵 Spotify fav playlist [Relaxxx with me on Spotify](https://open.spotify.com/playlist/1c2KgtC6gyccAwEyqmEjeU)
-
-- 📥 if you wanna find me, hit me on Email brazjuniorxx@gmail.com
-
-- 👨‍💻 All of my projects and repos are available at [https://github.com/brxzjunior](https://github.com/brxzjunior)
-
-- 💬 Ask me about **🖥️, 🎮, 👟 and 🎵**
-
-- 📫 How to reach me **Send me DMs, emails and friend requests**
-
-- 📄 Know about my experiences: **I'm studying web development and improving my hard and soft skills. My tech stack: HTML, CSS, JS, React.**
-
-- ⚡ Fun fact **I love sneakers and play video games, haha xD**
-
-<h3 align="left">Connect with me:</h3>
+<!-- 
 <p align="left">
-<a href="https://linkedin.com/in/brazjuniordev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brazjuniordev" height="30" width="40" /></a>
-<a href="https://instagram.com/brazjrsvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brazjrsvg" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=brxzjunior&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="brxzjunior" />
+</p>
+-->
+
+- 🔭 Atualmente estudando **Desenvolvimento Web e Segurança**
+
+- 🌱 Aprendendo **JavaScript e React JS**
+
+- 🎵 Playlist favorita no Spotify  
+  [Relaxxx comigo no Spotify](https://open.spotify.com/playlist/1c2KgtC6gyccAwEyqmEjeU)
+
+- 📥 Para contato: **brazjuniorxx@gmail.com**
+
+- 👨‍💻 Todos os meus projetos estão em  
+  https://github.com/brxzjunior
+
+- 💬 Pode me perguntar sobre **🖥️ tecnologia, 🎮 games, 👟 tênis e 🎵 música**
+
+- 📫 Como falar comigo: **DMs, e-mail ou solicitações de amizade**
+
+- 📄 Sobre mim:  
+  Estou estudando desenvolvimento web e evoluindo minhas habilidades técnicas e comportamentais.  
+  **Stack atual:** HTML, CSS, JavaScript e React.
+
+- ⚡ Curiosidade: gosto muito de tênis e jogos, haha 😄
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/brazjuniordev" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/brazjrsvg" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brxzjunior&show_icons=true&locale=en&layout=compact" alt="brxzjunior" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brxzjunior&show_icons=true&locale=pt-br&layout=compact" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brxzjunior&show_icons=true&locale=en" alt="brxzjunior" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brxzjunior&show_icons=true&locale=pt-br" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brxzjunior&" alt="brxzjunior" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brxzjunior" />
+</p>
