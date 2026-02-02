@@ -11,14 +11,11 @@
 
 - 🌱 Aprendendo **JavaScript e React JS**
 
-- 🎵 Playlist favorita no Spotify  [Relaxxx](https://open.spotify.com/playlist/1c2KgtC6gyccAwEyqmEjeU)
-
 - 📥 Para contato: **brazjuniorxx@gmail.com**
 
-- 👨‍💻 Todos os meus projetos estão em  
-  https://github.com/brxzjunior
+- 👨‍💻 Todos os meus projetos estão sendo mantidos e versionados aqui.
 
-- 💬 Pode me perguntar sobre **🖥️ tecnologia, 🎮 games, 👟 tênis e 🎵 música**
+- 💬 Amante de **🖥️ tecnologia, 🎮 games, 👟 tênis e 🎵 música**
 
 - 📫 Como falar comigo: **DMs, e-mail ou solicitações de amizade**
 
@@ -26,7 +23,7 @@
   Estou estudando desenvolvimento web e evoluindo minhas habilidades técnicas e comportamentais.  
   **Stack atual:** HTML, CSS, JavaScript e React.
 
-- ⚡ Curiosidade: gosto muito de tênis e jogos, haha 😄
+- ⚡ Atualmente estou buscando vaga de desenvolvedor como estagiário ou Junior!
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
