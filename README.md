@@ -1,58 +1,96 @@
-<h1 align="center">Olá 👋, eu sou o Braz (Brx) Junior</h1>
-<h3 align="center">Desenvolvedor web iniciante apaixonado por tecnologia 🤗</h3>
+<div align="center">
 
-<!-- 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=brxzjunior&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="brxzjunior" />
+<h1>Olá, eu sou o Braz (Brx) Junior 👋</h1>
+
+<h3>Desenvolvedor Web Full-Stack · Manaus, AM</h3>
+
+<p>
+  Apaixonado por construir soluções que resolvem problemas reais.<br/>
+  Foco em TypeScript, React e Node.js — do frontend ao deploy.
 </p>
--->
 
-- 🔭 Atualmente estudando **Desenvolvimento Web e Segurança**
-
-- 🌱 Aprendendo **JavaScript e React JS**
-
-- 📥 Para contato: **brazjuniorxx@gmail.com**
-
-- 👨‍💻 Todos os meus projetos estão sendo mantidos e versionados aqui.
-
-- 💬 Amante de **🖥️ tecnologia, 🎮 games, 👟 tênis e 🎵 música**
-
-- 📫 Como falar comigo: **DMs, e-mail ou solicitações de amizade**
-
-- 📄 Sobre mim:  
-  Estou estudando desenvolvimento web e evoluindo minhas habilidades técnicas e comportamentais.  
-  **Stack atual:** HTML, CSS, JavaScript e React.
-
-- ⚡ Atualmente estou buscando vaga de desenvolvedor como estagiário ou Junior!
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/brazjuniordev" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:brazjuniorxx@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/brazjrsvg" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
-</p>
+</div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brxzjunior&show_icons=true&locale=pt-br&layout=compact" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brxzjunior&show_icons=true&locale=pt-br" />
-</p>
+## Sobre mim
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brxzjunior" />
-</p>
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — com foco em impacto real via projetos de extensão (PEX)
+- 🚀 Atualmente construindo sistemas **full-stack** com TypeScript, React e Node.js
+- 🔐 Interesse crescente em **segurança de aplicações web** e boas práticas de autenticação
+- 🎯 Buscando oportunidade como **Desenvolvedor Júnior ou Estagiário**
+- 💬 Fora do código: **🎮 games · 👟 tênis · 🎵 música**
+
+---
+
+## Stack
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+**Ferramentas & Deploy**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+---
+
+## Projeto em destaque
+
+### ❄️ FrioOS — Sistema de Ordens de Serviço
+
+> Sistema full-stack desenvolvido como PEX para digitalizar a gestão de técnicos autônomos de refrigeração.
+
+- Gestão de ordens de serviço com controle de status e pagamento
+- Dashboard com métricas em tempo real e relatórios em PDF
+- Autenticação com JWT + OAuth Google
+- Deploy completo: frontend e backend no Render, banco no Supabase
+
+[![Ver repositório](https://img.shields.io/badge/Repositório-181717?style=flat&logo=github&logoColor=white)](https://github.com/brxzjunior/FrioOS)
+[![Acessar sistema](https://img.shields.io/badge/Acessar%20sistema-46E3B7?style=flat&logo=render&logoColor=black)](https://frioos.onrender.com/)
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=brxzjunior&show_icons=true&locale=pt-br&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=brxzjunior&show_icons=true&locale=pt-br&layout=compact&theme=transparent&hide_border=true&title_color=3178C6" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brxzjunior&theme=transparent&hide_border=true&ring=3178C6&fire=3178C6&currStreakLabel=3178C6" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Aberto a feedbacks, colaborações e oportunidades. 🤝</sub>
+</div>
