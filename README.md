@@ -76,6 +76,11 @@
 [![Ver repositório](https://img.shields.io/badge/Repositório-181717?style=flat&logo=github&logoColor=white)](https://github.com/brxzjunior/FrioOS)
 [![Acessar sistema](https://img.shields.io/badge/Acessar%20sistema-46E3B7?style=flat&logo=render&logoColor=black)](https://frioos.onrender.com/)
 
+## SISTEMA ESTÁ ATIVO PARA TESTES!
+- O sistema abre após o carregamento de inicialização do render, pois o sistema está disponível apenas para testes no plano gratuito da plataforma. Após 15min sem requisições, o sistema entra em modo hibernação.
+- A persistência de dados se mantém por 90 dias antes de deletar tudo, devido ao plano gratuito do Supabase.
+
+
 ---
 
 ## Estatísticas
