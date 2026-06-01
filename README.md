@@ -10,6 +10,12 @@
 </p>
 
 <p>
+  <a href="https://perfil-profissional-tau.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20braz.dev-6ee7b7?style=for-the-badge&logoColor=black" />
+  </a>
+</p>
+
+<p>
   <a href="https://linkedin.com/in/brazjuniordev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
