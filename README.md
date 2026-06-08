@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Olá, eu sou o Braz (Brx) Junior 👋</h1>
+<h1>Olá, eu sou o Braz Junior 👋</h1>
 
 <h3>Desenvolvedor Web Full-Stack · Manaus, AM</h3>
 
@@ -90,17 +90,9 @@
 ---
 
 ## Estatísticas
-
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=brxzjunior&show_icons=true&locale=pt-br&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=brxzjunior&show_icons=true&locale=pt-br&layout=compact&theme=transparent&hide_border=true&title_color=3178C6" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brxzjunior&theme=transparent&hide_border=true&ring=3178C6&fire=3178C6&currStreakLabel=3178C6" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brxzjunior&theme=transparent&hide_border=true&ring=3178C6&fire=3178C6&currStreakLabel=3178C6" />
 </div>
-
----
 
 <div align="center">
   <sub>Aberto a feedbacks, colaborações e oportunidades. 🤝</sub>
